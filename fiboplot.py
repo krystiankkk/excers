@@ -17,7 +17,7 @@ def fibo(n):
     print(tab)
     print(licz)
     fig, ax = plt.subplots()
-    ax.plot(licz, tab,'.')
+    ax.plot(licz, tab, '.')
     ax.set(xlabel='Kolejny wyraz', ylabel='Wartość',
            title='Wykres ciagu Fibo')
     ax.grid()
