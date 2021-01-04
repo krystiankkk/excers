@@ -8,6 +8,7 @@ licz.append(0)
 licz.append(1)
 licz.append(2)
 
+
 def fibo(n):
 
     for i in range(3,n):
