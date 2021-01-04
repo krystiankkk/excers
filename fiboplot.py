@@ -7,7 +7,7 @@ licz=[]
 licz.append(0)
 licz.append(1)
 licz.append(2)
-
+ff
 
 def fibo(n):
 
